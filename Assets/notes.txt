@@ -1,0 +1,4 @@
+﻿quantidade de shapes lançados por execução
+intervalo entre as execuções
+velocidade dos shapes
+tipo do shape (normal ou especial)
